@@ -1,8 +1,15 @@
-## Primeiro programinha Java
+## Primeiro programinha Java 11
 Upload de programa Java básico a nível de aprendizado.
 
 ## Segundo programa: Calculadora de inteiros
 
-Bootcampo DIO GFT Start #4 Java
+Bootcamp DIO GFT Start #4 Java
 
 Aula: Dominando IDEs Java
+
+## Segundo e meio: Abstraindo a relação cursos x bootcamp x devs inscritos por meio da POO
+
+Bootcamp DIO GFT Start #4 Java
+
+Projeto: Abstraindo um Bootcamp Usando Orientação a Objetos em Java
+Novo aprendizado: LinkedHashSet / HashSet
