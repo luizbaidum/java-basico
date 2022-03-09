@@ -13,3 +13,12 @@ Bootcamp DIO GFT Start #4 Java
 
 Projeto: Abstraindo um Bootcamp Usando Orientação a Objetos em Java
 Novo aprendizado: LinkedHashSet / HashSet
+
+## Segundo e 2/3: Aprendendo Java design patterns
+
+Bootcamp DIO GFT Start #4 Java
+
+Projeto: aplicando o Padrão de Projeto Strategy
+
+Projeto: Explorando Padrões de Projetos na Prática com Java
+Novo aprendizado: Padrões de Projeto em Java
